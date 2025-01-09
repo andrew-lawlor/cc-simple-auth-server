@@ -1,0 +1,4 @@
+*.txt
+*.db
+*.db-shm
+*.db-wal
